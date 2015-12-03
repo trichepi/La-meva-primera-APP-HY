@@ -3,7 +3,7 @@
 La meva primera APP
 
 
-Héctor Girón y Yasin Hatibi 
+Héctor Girón i Yasin Hatibi 
 29/11/2015
 
 02/12/2015
