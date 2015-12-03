@@ -1,6 +1,9 @@
 # PhoneGap amb JSView
 
-Test Bàsic de PhoneGap
+La meva primera APP
+
+
+Héctor Girón y Yasin Hatibi 
 29/11/2015
 
 02/12/2015
